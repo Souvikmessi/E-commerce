@@ -1,0 +1,121 @@
+user_id,name,email,city,signup_channel,device_type,first_order_date,last_login
+1,Danielle Johnson,danielle.johnson1@example.com,East Donald,organic,desktop,,2024-12-22
+2,Curtis Yang,curtis.yang2@example.com,New Roberttown,organic,tablet,2025-06-14,2025-08-20
+3,Clayton Hall,clayton.hall3@example.com,New Jamesside,referral,tablet,2024-11-27,2025-04-18
+4,Robert Cole,robert.cole4@example.com,Port Lindachester,paid_search,mobile,,2024-11-29
+5,Matthew Moore,matthew.moore5@example.com,Curtisfurt,organic,mobile,2025-10-15,2025-04-07
+6,Colin Abbott,colin.abbott6@example.com,Lindsaymouth,referral,tablet,2025-04-09,2026-06-06
+7,Amanda Dudley,amanda.dudley7@example.com,New Kellystad,social,tablet,,2025-05-01
+8,Barbara Bush,barbara.bush8@example.com,Port Keith,organic,tablet,2025-04-18,2025-08-05
+9,Christopher Hall,christopher.hall9@example.com,Ramirezstad,social,mobile,2025-01-24,2025-04-04
+10,Francisco Kelly,francisco.kelly10@example.com,Jacquelineland,referral,desktop,2024-11-18,2025-07-13
+11,Chelsea Jackson,chelsea.jackson11@example.com,East Steven,organic,desktop,2025-02-18,2025-12-04
+12,Joseph Schaefer,joseph.schaefer12@example.com,Lake Mark,organic,mobile,2025-05-25,2025-05-22
+13,Kayla Brown,kayla.brown13@example.com,Port Leslieview,social,tablet,2024-12-09,2026-04-02
+14,Carl Gentry,carl.gentry14@example.com,Jasonfort,social,tablet,,2025-09-18
+15,Randall Rocha,randall.rocha15@example.com,West Donald,paid_search,desktop,2025-01-08,2026-02-23
+16,Julie Ryan,julie.ryan16@example.com,Hurstfurt,paid_search,tablet,2025-03-18,2025-05-21
+17,Michael Osborn,michael.osborn17@example.com,Daviston,paid_search,tablet,2025-04-27,2025-07-13
+18,Michelle Hernandez,michelle.hernandez18@example.com,Carlsonfurt,organic,mobile,2025-02-28,2024-09-26
+19,Patrick Ferrell,patrick.ferrell19@example.com,Tashatown,email,mobile,2025-05-31,2025-09-29
+20,Erin Wilson,erin.wilson20@example.com,Kaylamouth,organic,desktop,2025-01-16,2025-08-05
+21,Daniel Graham,daniel.graham21@example.com,Lake Nancyview,organic,desktop,2025-03-22,2025-11-16
+22,Teresa Gill,teresa.gill22@example.com,Port Colleenhaven,referral,tablet,2025-01-02,2025-07-01
+23,Chelsea Hernandez,chelsea.hernandez23@example.com,New Stephanie,referral,mobile,2025-05-29,2025-05-20
+24,Sandra Sellers,sandra.sellers24@example.com,Tracyville,organic,desktop,2025-02-24,2025-09-10
+25,Sarah Koch,sarah.koch25@example.com,Johnbury,email,tablet,2024-11-13,2026-01-04
+26,Natalie Arroyo,natalie.arroyo26@example.com,Cabreraside,referral,mobile,2025-03-06,2025-01-28
+27,Katie Anderson,katie.anderson27@example.com,West Allison,social,desktop,2025-10-14,2025-07-08
+28,Catherine Brandt,catherine.brandt28@example.com,Lake Larry,organic,mobile,2025-02-15,2026-06-25
+29,Wanda Santos,wanda.santos29@example.com,Martinezbury,organic,desktop,2025-06-08,2025-09-20
+30,Caleb Smith,caleb.smith30@example.com,New Jeffrey,social,tablet,2025-05-02,2026-01-26
+31,Chad Welch,chad.welch31@example.com,North Micheleland,organic,mobile,2025-03-18,2025-11-24
+32,Willie Ramirez,willie.ramirez32@example.com,New David,social,tablet,2025-05-05,2025-07-30
+33,Selena Duncan,selena.duncan33@example.com,Port Thomas,social,desktop,2025-07-23,2025-08-11
+34,Richard Davis,richard.davis34@example.com,Gomezchester,organic,mobile,2024-12-27,2026-03-10
+35,Stuart Daniel,stuart.daniel35@example.com,North Richardmouth,paid_search,mobile,2025-01-14,2026-07-07
+36,Lauren Rodriguez,lauren.rodriguez36@example.com,New Shane,organic,mobile,2024-12-23,2024-11-18
+37,Robert Ramirez,robert.ramirez37@example.com,South Lindseyside,paid_search,desktop,2025-05-15,2025-10-27
+38,Corey Pearson,corey.pearson38@example.com,North Sarabury,paid_search,desktop,2025-04-11,2026-01-05
+39,Gabriel Tucker,gabriel.tucker39@example.com,Barreraburgh,email,mobile,,2025-04-21
+40,Nicholas Galloway,nicholas.galloway40@example.com,Mitchellside,referral,tablet,2025-03-12,2024-12-21
+41,Dorothy Tucker,dorothy.tucker41@example.com,Jeffton,social,desktop,2025-09-09,2025-04-27
+42,Beth Daniels,beth.daniels42@example.com,Brianshire,organic,mobile,2024-12-27,2025-06-24
+43,Thomas Calhoun,thomas.calhoun43@example.com,North Susan,organic,tablet,2025-01-09,2026-03-17
+44,Christopher Lopez,christopher.lopez44@example.com,Lake Michellefurt,email,mobile,2025-03-17,2025-09-28
+45,David Zamora,david.zamora45@example.com,New Christophershire,email,tablet,2024-11-13,2026-01-20
+46,Annette Stewart,annette.stewart46@example.com,Lake Jennifer,social,tablet,,2025-06-26
+47,John Foster,john.foster47@example.com,Stephenland,organic,mobile,2024-11-21,2025-08-22
+48,Albert Howell,albert.howell48@example.com,North Amandahaven,paid_search,desktop,2024-12-17,2024-12-20
+49,Joseph Mahoney,joseph.mahoney49@example.com,East Mikeburgh,organic,desktop,2025-01-01,2025-05-12
+50,Samuel Daniels,samuel.daniels50@example.com,Lake Lisaport,organic,mobile,2025-06-30,2025-07-21
+51,Sarah Garcia,sarah.garcia51@example.com,West Darrell,organic,desktop,2024-12-03,2025-07-11
+52,Daniel Tran,daniel.tran52@example.com,Cassandramouth,email,tablet,2024-12-28,2024-11-07
+53,James Walters,james.walters53@example.com,Kington,organic,desktop,2025-09-16,2025-01-01
+54,Christopher Henderson,christopher.henderson54@example.com,North Matthewberg,organic,tablet,2024-12-06,2025-02-16
+55,Dana Green,dana.green55@example.com,Arnoldchester,email,tablet,2025-09-05,2026-05-06
+56,Ann Rodriguez,ann.rodriguez56@example.com,New Barry,social,desktop,2025-01-13,2025-11-14
+57,Mike Tran,mike.tran57@example.com,North Kyle,paid_search,tablet,2024-12-14,2025-11-15
+58,Rachel Flynn,rachel.flynn58@example.com,West Jasonbury,organic,mobile,2025-03-20,2026-07-21
+59,Elizabeth Gomez,elizabeth.gomez59@example.com,Dicksonberg,organic,tablet,2025-05-02,2025-02-22
+60,Sara Young,sara.young60@example.com,South Angel,paid_search,mobile,2025-02-09,2025-03-10
+61,Jill Cook,jill.cook61@example.com,Phambury,social,mobile,2025-07-13,2025-07-23
+62,Joseph Cobb,joseph.cobb62@example.com,Brennanfort,organic,mobile,2025-02-08,2025-02-15
+63,Jeffrey Velasquez,jeffrey.velasquez63@example.com,Kevinbury,organic,mobile,2024-12-19,2025-10-14
+64,Jeffrey Keller,jeffrey.keller64@example.com,Joshualand,referral,mobile,,2025-07-29
+65,Tammy Ramirez,tammy.ramirez65@example.com,Frazierside,social,tablet,2025-01-11,2025-06-04
+66,Mark Johnson,mark.johnson66@example.com,Gregoryview,organic,desktop,2025-02-11,2026-08-18
+67,Benjamin Carlson,benjamin.carlson67@example.com,Samuelhaven,organic,mobile,2025-01-25,2025-11-17
+68,Darrell Lam,darrell.lam68@example.com,Bradleychester,organic,desktop,2024-12-04,2025-10-12
+69,Aaron Frost,aaron.frost69@example.com,West Ryan,social,mobile,2025-06-02,2026-04-03
+70,Stacy Mccall,stacy.mccall70@example.com,Elizabethville,organic,tablet,2025-06-02,2025-04-23
+71,Jennifer Evans,jennifer.evans71@example.com,Nguyenport,social,mobile,2025-01-07,2025-08-26
+72,Angela Lee,angela.lee72@example.com,Byrdburgh,organic,tablet,2025-04-20,2025-10-10
+73,Christina Turner,christina.turner73@example.com,West Justinchester,organic,mobile,2024-12-28,2026-03-18
+74,Kristi Lawson,kristi.lawson74@example.com,Ramosborough,paid_search,mobile,2025-04-20,2025-06-30
+75,William Leon,william.leon75@example.com,Lake Christopher,social,tablet,2025-03-04,2026-06-17
+76,Zachary Schultz,zachary.schultz76@example.com,Port Stephaniebury,organic,tablet,2025-04-23,2025-01-01
+77,Emily Walker,emily.walker77@example.com,North Brandon,email,mobile,2025-03-04,2024-08-16
+78,Tracey Carr,tracey.carr78@example.com,South Robertshire,paid_search,desktop,2025-02-13,2025-08-27
+79,James Horton,james.horton79@example.com,Sancheztown,social,mobile,2024-12-14,2025-06-29
+80,Patricia Dalton,patricia.dalton80@example.com,Port Ronaldburgh,organic,desktop,,2025-10-09
+81,Linda Dominguez,linda.dominguez81@example.com,New Johnville,email,desktop,2025-01-20,2025-08-10
+82,Stephen Solis,stephen.solis82@example.com,Stephaniemouth,paid_search,tablet,2025-05-02,2025-11-18
+83,Cheyenne Ball,cheyenne.ball83@example.com,Rivasside,organic,desktop,2024-12-31,2026-04-10
+84,Sean Moore,sean.moore84@example.com,Colebury,email,tablet,2025-04-10,2025-11-23
+85,Mary Ramirez,mary.ramirez85@example.com,Simsview,social,mobile,2025-05-14,2025-05-15
+86,Scott Reeves,scott.reeves86@example.com,Matthewside,paid_search,tablet,2025-04-21,2024-10-05
+87,Christopher Hernandez,christopher.hernandez87@example.com,Lake Jason,organic,tablet,2024-11-27,2025-03-21
+88,Robert Rivera,robert.rivera88@example.com,Brownchester,social,mobile,2025-05-29,2025-02-02
+89,Perry Carrillo,perry.carrillo89@example.com,Port Nicoleshire,referral,mobile,2025-05-11,2025-04-20
+90,Omar Smith,omar.smith90@example.com,Karenchester,organic,tablet,2024-12-21,2025-11-16
+91,Amanda Navarro,amanda.navarro91@example.com,South Jeffrey,paid_search,mobile,2024-11-18,2025-11-29
+92,Ryan Johnson,ryan.johnson92@example.com,Ramseymouth,paid_search,tablet,2024-12-12,2024-12-15
+93,Samantha Hooper,samantha.hooper93@example.com,South Brittanytown,organic,desktop,2025-01-11,2026-05-28
+94,Christopher Patterson,christopher.patterson94@example.com,Whiteview,referral,desktop,2025-01-05,2025-11-12
+95,Nicholas Lewis,nicholas.lewis95@example.com,Kathleenfurt,organic,mobile,2025-07-26,2025-05-21
+96,Joshua Bean,joshua.bean96@example.com,Maryfort,paid_search,mobile,2025-01-26,2025-08-29
+97,Andrew Ryan,andrew.ryan97@example.com,Lake Casey,paid_search,tablet,2025-03-13,2024-10-07
+98,Susan Williams,susan.williams98@example.com,East Mary,organic,mobile,2025-05-21,2024-09-07
+99,Christine Allen,christine.allen99@example.com,New Staciemouth,organic,desktop,2024-12-18,2026-04-17
+100,Holly Wang,holly.wang100@example.com,Port Loriport,social,desktop,2025-07-14,2024-09-28
+101,Daniel Johnson,daniel.johnson101@example.com,Sandersborough,organic,tablet,2025-05-25,2025-07-02
+102,Charles Vaughn,charles.vaughn102@example.com,North Heidi,referral,tablet,2024-11-24,2025-11-19
+103,Kevin Sutton,kevin.sutton103@example.com,Port Tonyaton,referral,tablet,2024-11-26,2025-04-01
+104,Michael Patterson,michael.patterson104@example.com,New Deborahtown,email,mobile,2025-02-23,2025-08-08
+105,Melissa Short,melissa.short105@example.com,Yumouth,organic,mobile,2024-12-18,2024-11-09
+106,Jasmine Graham,jasmine.graham106@example.com,Christinaside,organic,tablet,,2025-08-02
+107,Kim Marshall,kim.marshall107@example.com,Marcusbury,social,mobile,2024-11-28,2025-11-02
+108,Mariah Miller,mariah.miller108@example.com,Sanchezmouth,paid_search,desktop,2025-04-21,2026-01-18
+109,Ashley Barnett,ashley.barnett109@example.com,South Melissaburgh,organic,desktop,2025-06-12,2024-11-14
+110,Tony Kelly,tony.kelly110@example.com,Joshuaview,organic,desktop,2025-10-18,2025-06-03
+111,Angela Black,angela.black111@example.com,East Jenniferfort,referral,desktop,2024-11-29,2024-12-09
+112,Angela Allen,angela.allen112@example.com,Westtown,social,tablet,2024-11-23,2025-04-30
+113,Christopher Walker,christopher.walker113@example.com,West Elizabeth,paid_search,mobile,2025-04-16,2026-04-21
+114,Miguel Tran,miguel.tran114@example.com,Barajasside,email,tablet,2025-04-08,2024-12-12
+115,Mark Warner,mark.warner115@example.com,Johnville,paid_search,desktop,2025-07-03,2025-01-28
+116,Jennifer Stewart,jennifer.stewart116@example.com,East Javier,paid_search,mobile,2025-07-22,2025-07-29
+117,Todd Hardy,todd.hardy117@example.com,Tinaborough,organic,mobile,2025-02-26,2026-01-16
+118,Kenneth Ward,kenneth.ward118@example.com,Lake Amandaview,organic,mobile,2024-12-10,2025-09-11
+119,Brandon Brown,brandon.brown119@example.com,Lake Miranda,organic,tablet,,2024-12-20
+120,Travis Salas,travis.salas120@example.com,Taylormouth,email,tablet,2025-05-08,2026-02-13

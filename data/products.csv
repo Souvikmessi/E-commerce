@@ -1,0 +1,81 @@
+product_id,product_name,brand,category,price,cost_price,rating,is_limited_edition,sustainability_score
+1,Grow X,Bellamy,books,81.5,66.7,2.6,False,0.33
+2,Create X,Cores,home,465.75,354.44,4.5,False,0.87
+3,Approach Plus,Cores,apparel,430.0,215.04,4.6,False,0.22
+4,Entire Lite,Aster,apparel,331.72,192.17,3.4,False,0.68
+5,Yeah Pro,Aster,apparel,422.61,232.02,2.9,False,0.27
+6,Training Lite,Dovetail,health,58.66,34.94,5.0,False,0.9
+7,Mean Plus,Aster,health,99.09,41.62,4.8,False,0.72
+8,Build Lite,Dovetail,electronics,372.27,261.25,4.9,False,0.62
+9,Term Lite,Eon,apparel,333.38,152.05,4.2,False,0.7
+10,Attention Plus,Bellamy,health,279.43,135.89,3.9,False,0.83
+11,Institution,Eon,apparel,155.42,76.87,3.7,False,0.21
+12,Million X,Aster,apparel,239.23,192.71,3.8,False,0.34
+13,Back Lite,Bellamy,home,410.12,302.67,2.9,True,0.98
+14,Part Plus,Dovetail,health,307.58,229.4,3.0,False,0.49
+15,Professional Pro,Aster,books,125.77,87.44,3.0,False,0.7
+16,Rich Pro,Dovetail,home,234.95,152.91,4.5,False,0.99
+17,Argue Plus,Eon,health,299.75,248.05,3.6,False,0.45
+18,Civil Plus,Cores,home,83.78,65.99,4.6,False,0.78
+19,Church Plus,Aster,apparel,244.88,124.32,3.1,False,0.89
+20,Talk Plus,Bellamy,home,44.89,21.0,2.7,False,0.54
+21,Order Plus,Dovetail,health,210.81,103.95,4.9,True,0.88
+22,Fly Lite,Cores,books,289.97,178.23,4.6,False,0.42
+23,Bed,Bellamy,books,375.02,242.17,3.0,False,0.03
+24,Energy Plus,Bellamy,books,171.38,120.93,4.8,False,0.53
+25,By Pro,Aster,books,453.93,302.48,2.8,False,0.05
+26,Open Lite,Cores,books,192.66,95.41,3.2,False,0.42
+27,South,Aster,apparel,418.28,255.84,3.1,False,0.96
+28,Keep X,Bellamy,electronics,24.93,10.32,4.1,False,0.47
+29,Police Plus,Cores,apparel,61.62,50.93,2.9,False,0.75
+30,Pick Lite,Aster,health,61.69,47.42,2.6,False,0.68
+31,Street X,Aster,health,479.3,277.27,4.2,False,0.1
+32,Present,Aster,health,387.38,303.18,4.5,False,0.43
+33,Draw Lite,Aster,books,188.43,118.27,4.6,False,0.96
+34,Stand X,Dovetail,home,319.61,247.03,4.3,False,0.27
+35,Necessary Plus,Dovetail,books,405.06,260.12,4.6,False,0.32
+36,Husband Lite,Dovetail,home,126.52,103.82,4.4,False,0.67
+37,Little Lite,Bellamy,books,171.52,106.76,3.0,False,0.34
+38,When Lite,Eon,electronics,440.76,315.38,3.8,False,0.24
+39,Level X,Dovetail,books,206.18,133.98,3.6,True,0.29
+40,Finish,Cores,books,205.18,104.54,3.9,False,1.0
+41,Trade Plus,Cores,apparel,277.44,154.9,3.1,False,0.19
+42,Per X,Bellamy,home,64.18,41.15,4.3,False,0.59
+43,Laugh Pro,Bellamy,apparel,381.3,254.92,3.1,False,0.01
+44,Focus Pro,Eon,apparel,269.4,141.01,4.2,False,0.87
+45,Outside,Cores,books,247.98,196.58,3.7,False,0.97
+46,Pressure Pro,Aster,books,129.98,102.4,3.7,False,0.69
+47,As Lite,Aster,home,80.1,61.28,2.8,False,0.61
+48,Poor,Dovetail,books,396.42,198.83,4.8,False,0.59
+49,Sister Pro,Eon,electronics,217.27,142.5,4.9,False,0.21
+50,Bit X,Eon,electronics,331.91,156.22,2.9,False,0.69
+51,Yourself Lite,Cores,books,237.61,98.53,2.7,False,0.26
+52,Source X,Dovetail,electronics,396.67,263.95,3.9,False,0.91
+53,Despite X,Cores,health,414.18,178.98,4.4,False,0.29
+54,Process Plus,Cores,health,66.56,47.25,3.8,False,0.6
+55,Development,Cores,electronics,445.26,325.28,2.7,False,0.84
+56,Everything Lite,Eon,electronics,289.72,239.85,4.4,False,0.52
+57,Recent,Dovetail,books,223.9,117.59,4.9,False,0.41
+58,Beat X,Cores,books,163.92,73.28,4.2,False,0.95
+59,Close Plus,Aster,apparel,407.72,264.02,3.1,False,0.77
+60,Education Pro,Eon,books,433.13,334.04,3.5,False,0.36
+61,Consumer Pro,Bellamy,apparel,379.44,258.56,3.9,False,0.44
+62,Old,Bellamy,home,350.63,159.41,3.3,True,0.41
+63,Bad Pro,Dovetail,electronics,116.23,90.5,4.1,False,0.93
+64,Close Plus,Dovetail,books,149.47,107.24,3.1,False,0.38
+65,Able X,Aster,apparel,461.32,290.04,4.4,False,0.34
+66,Issue Pro,Cores,apparel,394.92,205.45,4.6,False,0.66
+67,Little Plus,Cores,apparel,433.3,260.39,3.9,False,0.46
+68,Risk X,Eon,books,164.28,79.66,3.1,False,0.04
+69,Phone Plus,Dovetail,home,373.63,268.02,3.7,True,0.5
+70,Many Plus,Aster,health,297.14,235.15,4.8,True,0.14
+71,Film Pro,Dovetail,apparel,436.11,364.8,3.3,False,0.65
+72,Alone,Dovetail,apparel,426.62,334.28,4.1,False,0.49
+73,Each X,Cores,home,272.8,184.92,4.4,False,0.1
+74,Fight Plus,Bellamy,apparel,318.71,252.63,4.8,True,0.8
+75,Seat X,Bellamy,health,150.22,85.43,3.5,False,0.18
+76,Fear Plus,Eon,home,91.66,61.8,3.7,False,0.23
+77,Scientist Pro,Dovetail,apparel,320.76,194.64,4.2,False,0.44
+78,Trade Plus,Cores,books,176.05,116.97,4.6,False,0.38
+79,Long,Cores,health,244.19,123.74,3.2,False,0.02
+80,Avoid Pro,Eon,electronics,415.87,240.42,4.8,False,0.83
